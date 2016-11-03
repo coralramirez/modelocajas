@@ -1,0 +1,23 @@
+div{
+    background-color: peachpuff;
+    border-color: purple;
+    border-width: 10px;
+    border-left-width:5px;
+      border-right-width:5px;
+    border-style:solid;
+    padding-top:10px;
+    padding-bottom:30px;
+    padding-left:60px;
+    padding-right:20px;
+    
+}
+p{
+    border:dashed 1px green;
+    background-color: white;
+    text-align: center;
+    padding-bottom:5px;
+    padding-top: 5px;
+    font-size: 8px;
+    border-width: thin;
+    
+}
